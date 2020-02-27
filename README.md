@@ -63,3 +63,5 @@ This list includes general ethos the project should abide by. This list is not c
 ## Community
 
 Additional project coordination and realtime discussion happens on our [Discord server](https://discord.gg/9WxHa5d). Remember that all activity on the Discord is still moderated and will be strictly enforced under the project's [Code of Conduct](.github/CODE_OF_CONDUCT.md).
+
+> "All JavaScript tools lead to Hydra. With **Rome**, not anymore."
